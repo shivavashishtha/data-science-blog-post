@@ -34,7 +34,7 @@ In this project, I choose [Stack Overflow data](https://www.kaggle.com/stackover
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found [here](https://medium.com/@abrarniaz205/where-job-satisfaction-is-highest-for-programmers-ac9857f330a0).
+The main findings of the code can be found [here](https://medium.com/@shiva.vashishtha/how-much-job-satisfaction-do-programmers-have-295a20a4d837?sk=d7523af1836192118d2bd7a9a7d36a9b).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
